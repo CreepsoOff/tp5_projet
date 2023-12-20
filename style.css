@@ -417,13 +417,3 @@ footer {
 .sources_container > ul > li > a:hover {
     color: #845d3c;
 }
-
-/* CORRECTION IMG RENDU */
-
-.rapport > a > img {
-    border: #472d1a 3px solid;
-    height: 200px;
-    width: 300px;
-    object-fit: cover;
-    border-radius: 25px;
-}
